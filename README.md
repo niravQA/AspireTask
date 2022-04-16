@@ -10,3 +10,5 @@
 - src/main/java - There is 2 packages inside this : testcases and utility.
 - testcases : All classess containing java class file.
 - utility : There are 2 files i.e BrowserFactory - All common browser functions and BaseClass - Common function of class
+
+- To run this, just clone the repo and run it in any IDE as testNG file.
