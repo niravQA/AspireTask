@@ -4,6 +4,7 @@
 - Selenium Java
 - TestNG Library
 - WebDriverManager
+- Maven Build tool
 
 ## Folder Strutcure
 - src/main/java - There is 2 packages inside this : testcases and utility.
